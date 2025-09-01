@@ -1,1 +1,4 @@
-# Full-Stack
+# Full Stack
+
+Curso Full Stack de 670 Horas Fornecido pelo Senai.
+
