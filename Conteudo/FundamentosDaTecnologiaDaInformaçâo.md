@@ -19,7 +19,7 @@ A linguagem mais objetiva também é predominante nos textos que circulam em amb
 ###  Linguagem Denotativa
 É aquela usada em seu sentido literal, dicionarizado, como na frase: “O rio é o habitat natural de espécies variadas”.
 
-### Conheça, a seguir, os editores de textos de alguns sistemas operacionais
+# Conheça, a seguir, os editores de textos de alguns sistemas operacionais
 
 **Sistema operacional Linux (software livre e gratuito):** Open Office Writer, Bluefish 2.0.2, TreePad Lite for Linux 2.2.1.
 
